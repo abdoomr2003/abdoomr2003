@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **at ALX Software Engineering Schlarship**
 
-- 👯 I’m looking to collaborate on **AirBnB_Clone**
+- 👯 I’m looking to collaborate on [AirBnB_Clone](https://github.com/abdoomr2003/AirBnB_clone_v2)
 
 - 📫 How to reach me **abdoomer1112003@gmail.com**
 
